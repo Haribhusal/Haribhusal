@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Haribhusal
-- 👀 I’m interested in ui/ux
+- 👀 I have a strong understanding and experience of different design principles such as Material Design, Lightning Design System and antd.
 - 🌱 I’m developing web applications using MEAN Stack
-- 💞️ I’m looking to collaborate on full stack web applications
+- 💞️ I’m looking to collaborate on full-stack web applications
 - 📫 You can reach me at bhusalhari89@gmail.com
